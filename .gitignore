@@ -1,0 +1,17 @@
+# Python 
+__pycache__/ 
+*.pyc 
+venv/ 
+env/ 
+*.log 
+parser_output.txt 
+.env 
+postgres/data/ 
+.vscode/ 
+.idea/ 
+*.db 
+.env
+node_modules
+frontend/node_modules
+frontend/dist
+postgres/data
